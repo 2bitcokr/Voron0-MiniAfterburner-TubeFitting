@@ -1,5 +1,4 @@
-# 2bitcokr-Voron0-MiniAfterburner-TubeFitting
-2bitcokr/Voron0-MiniAfterburner-TubeFitting_ECAS04
+#Voron0-MiniAfterburner-TubeFitting
 
 Your PTFEtube fixed when Input filaments?
 
